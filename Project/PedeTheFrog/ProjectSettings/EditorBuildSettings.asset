@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/UI.unity
+    guid: 06595b8d1bf6a7340840f28540536edb
+  - enabled: 1
+    path: Assets/Scenes/UILevel.unity
+    guid: 36b025b14b37aaf44b3e7ef5676b4b1f
+  - enabled: 1
+    path: Assets/Scenes/Level0-1.unity
+    guid: 962d4ed47ae4c7647bb6291288bf2d2c
+  - enabled: 1
+    path: Assets/Scenes/Level0-2.unity
+    guid: b6ddaa02fd6f06d44b90efdbfbdefe45
+  - enabled: 1
+    path: Assets/Scenes/Level0-3.unity
+    guid: c1bf7348dfc1c954eb9a6052b259fb00
+  - enabled: 1
+    path: Assets/Scenes/Level0-4.unity
+    guid: fc2eb0b6b78a2f9459c8db7290b19516
+  - enabled: 1
+    path: Assets/Scenes/Level1-1.unity
+    guid: f25d26552a62cee49a2422d6fb9baa88
+  - enabled: 1
+    path: Assets/Scenes/Level1-2.unity
+    guid: 9f285f541082fe942991c0b4fc5a479e
+  - enabled: 1
+    path: Assets/Scenes/Level1-3.unity
+    guid: 9726668f55acda04a9b907ce6b393aae
+  - enabled: 1
+    path: Assets/Scenes/Level1-4.unity
+    guid: 2ec4aae29cfcb35449e6f11bc1edbf3f
+  - enabled: 1
+    path: Assets/Scenes/Level1-Boss.unity
+    guid: a3995502bff10594d87c2614dfb8cb15
+  - enabled: 1
+    path: Assets/Scenes/Level2-1.unity
+    guid: 5624e4f9537b40941a55b2c2efb73547
+  - enabled: 1
+    path: Assets/Scenes/Level2-2.unity
+    guid: 1dcc2da0a40be8c449ff0265e106433c
+  - enabled: 1
+    path: Assets/Scenes/Level2-3.unity
+    guid: b039f805af87f294aa98bd929ab2320b
+  - enabled: 1
+    path: Assets/Scenes/Level2-4.unity
+    guid: 95888c2054ee53347b922bc18282fb5a
+  - enabled: 1
+    path: Assets/Scenes/Level2-5.unity
+    guid: f49b0ef8932e48b4aabdff19727fb815
+  - enabled: 1
+    path: Assets/Scenes/Level2-6.unity
+    guid: 7f56495cc58460d44be7016b2a634c44
+  - enabled: 1
+    path: Assets/Scenes/Endgame.unity
+    guid: 41af11f1fa61bea4e826b815ea4f69ae
+  - enabled: 1
+    path: Assets/Scenes/Gameover.unity
+    guid: 8f65d3026ddccd64b915bd4bb34f63da
+  m_configObjects: {}
